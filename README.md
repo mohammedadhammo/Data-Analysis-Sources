@@ -71,10 +71,12 @@
 ### 5. BI
 - [Storytelling with data](https://www.youtube.com/watch?v=sKOPyCIGvwQ)
 
+###  Video Courses
+- [Database & BI](https://www.linkedin.com/posts/mohamed-elsaid-a4004b273_%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D8%A7%D8%AE%D9%88%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D8%B0%D8%A7%D9%83%D8%B1%D9%88%D8%A7-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE-activity-7226201046325334016-V5HC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs) 
+
 ### 🎥 Video Courses ITI
 - [Database & BI](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-) 📂
 - [Data Analysis & BI](https://mega.nz/folder/kp5RFACR#tEcE-S38Bfkjim7gBp4e9Q) 📂
-
 
 ### 📚 Books on Data Analysis & Business Intelligence
 - [Data Science for Business](https://www.advisory21.com.mt/wp-content/uploads/2023/05/Data-Science-for-Business.pdf)
@@ -94,12 +96,9 @@
 - [Mohamed Abdelatty](https://lnkd.in/drTrQhjx) - [Alex The Analyst](https://lnkd.in/dBiRsJ9e)
 - [Data School](https://lnkd.in/drP9c_3q) - [Ken Jee](https://lnkd.in/dj8B_35c)
 - [StatQuest with Josh Starmer](https://lnkd.in/dv7ysPwt)
-- [Data Professor](https://lnkd.in/dJEV2HW6)
-- [Krish Naik](https://lnkd.in/dKqsZijf)
-- [Data with Baraa](https://lnkd.in/dy_PUHyn)
-- [Kenji Explains](https://lnkd.in/dbyETwdy)
-- [codebasics](https://lnkd.in/dJfTfU-3)
-- [Mo Chen](https://lnkd.in/drrEPKeA)
+- [Data Professor](https://lnkd.in/dJEV2HW6) - [Krish Naik](https://lnkd.in/dKqsZijf)
+- [Data with Baraa](https://lnkd.in/dy_PUHyn) - [Kenji Explains](https://lnkd.in/dbyETwdy)
+- [codebasics](https://lnkd.in/dJfTfU-3) - [Mo Chen](https://lnkd.in/drrEPKeA)
 - [Adam Finer - Learn BI Online](https://lnkd.in/dGpCzQT3)
 
 ---
