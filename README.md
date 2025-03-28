@@ -61,6 +61,10 @@
 - [Power BI Playlist Mohammed Zanoon](https://www.youtube.com/@ZanoonLab)
 - [Power BI Playlist alassaal](https://www.youtube.com/watch?v=v_re3WCPOjI&list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3)
 - [Power BI Coursera](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi?irclickid=w3eW4ZQYXxyKRHRTdeXVu1QiUks3YlS3AW8oU80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c&utm_campaignid=MLTUT&utm_term=14726_CR_1164545)
+- [Power BI Data Modeling](https://www.youtube.com/playlist?list=PLMGnA_WX4s90NGG_O-2m7Pn5Pq1_ieNdy)
+
+### 5. BI
+-[Storytelling with data](https://www.youtube.com/watch?v=sKOPyCIGvwQ)
 
 ### 🎥 Video Courses ITI
 - [Database & BI](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-) 📂
@@ -70,16 +74,30 @@
 ### 📚 Books on Data Analysis & Business Intelligence
 - [Data Science for Business](https://www.advisory21.com.mt/wp-content/uploads/2023/05/Data-Science-for-Business.pdf)
 - [Python for Data Analysis](https://wesmckinney.com/book/)
+- [Storytelling with data]([https://wesmckinney.com/book/](https://archive.org/details/storytellingwith0000knaf?utm_source=chatgpt.com))
 - [Business Intelligence, Analytics, and Data Science: A Managerial Perspective](https://archive.org/details/20210102_20210102_2233/%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA%20%D9%88%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA/)
 
 ---
 
-### YouTube Channels
+### 🎥 YouTube Channels
 
 
+- [Mustafa Othman](https://lnkd.in/d64mSUvv)
+- [Mohamed Al Assaal - اتعلم مع العسال](https://lnkd.in/dnNEFQ3f)
+- [Data Science بالعربي](https://lnkd.in/dvyxjzHV)
+- [DatasClub](https://lnkd.in/dKq4Sf_K)
+- [Mohamed Abdelatty](https://lnkd.in/drTrQhjx) - [Alex The Analyst](https://lnkd.in/dBiRsJ9e)
+- [Data School](https://lnkd.in/drP9c_3q) - [Ken Jee](https://lnkd.in/dj8B_35c)
+- [StatQuest with Josh Starmer](https://lnkd.in/dv7ysPwt)
+- [Data Professor](https://lnkd.in/dJEV2HW6)
+- [Krish Naik](https://lnkd.in/dKqsZijf)
+- [Data with Baraa](https://lnkd.in/dy_PUHyn)
+- [Kenji Explains](https://lnkd.in/dbyETwdy)
+- [codebasics](https://lnkd.in/dJfTfU-3)
+- [Mo Chen](https://lnkd.in/drrEPKeA)
+- [Adam Finer - Learn BI Online](https://lnkd.in/dGpCzQT3)
 
 ---
-
 ## 🌍 Where to Get Datasets?
 - [Kaggle](https://www.kaggle.com/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
@@ -106,13 +124,6 @@
 ## 📊 LinkedIn & Medium Resources
 - [Best LinkedIn Posts](#)
 - [Data Analytics Medium Articles](https://medium.com/tag/data-analytics)
-
----
-
-## 🔥 BI & Analysis Tools
-- [Power BI Download](https://powerbi.microsoft.com/en-us/downloads/)
-- [Tableau Trial](https://www.tableau.com/products/trial)
-- [Google Data Studio](https://datastudio.google.com/)
 
 ---
 
