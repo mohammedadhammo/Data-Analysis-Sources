@@ -127,7 +127,7 @@
 ---
 
 ##  LinkedIn Posts in Data Analysis & Business Intelligence 
-- [Storytelling with data]([#](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7300870125518254080-8OUd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs))
+- [Storytelling with data](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7300870125518254080-8OUd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
 - [Connect & Collect](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7301344449685549056-kJ4I?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
 - [BI](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7301603347252338689-7CWK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
 - [Exploratory Data Analysis (EDA)](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7302074030629507074-94cp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
