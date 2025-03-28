@@ -30,6 +30,10 @@
 
 ### 🎥 Video Courses
 
+### 1.Statistics
+-[Descriptive Statistics](https://www.youtube.com/playlist?list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW)
+-[Inferential Statistics](https://www.youtube.com/playlist?list=PLtsZ69x5q-X9usunWeDQe6wOGIPUSZrdA)
+
 ### 1.Excel  
 - [Excel Playlist alassaal](https://www.youtube.com/watch?v=mV8s55-6mag&list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT)
 - [coursera Excel Course](https://www.coursera.org/learn/from-excel-to-power-bi?irclickid=w3eW4ZQYXxyKRHRTdeXVu1QiUks3Yj0GAW8oU80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c&utm_campaignid=MLTUT&utm_term=14726_CR_1164545_)
@@ -121,10 +125,17 @@
 
 ---
 
-## 📊 LinkedIn & Medium Resources
-- [Best LinkedIn Posts](#)
-- [Data Analytics Medium Articles](https://medium.com/tag/data-analytics)
-
+##  LinkedIn Posts in Data Analysis & Business Intelligence 
+- [Storytelling with data]([#](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7300870125518254080-8OUd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs))
+- [Connect & Collect](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7301344449685549056-kJ4I?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
+- [BI](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7301603347252338689-7CWK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
+- [Exploratory Data Analysis (EDA)](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7302074030629507074-94cp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
+- [DataBias](https://www.linkedin.com/posts/mohammed-adham-936381247_databias-dataanalysis-smartdecisions-activity-7303219093208285184-bLvn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
+- [Data Driven Decision Making (BI)](https://www.linkedin.com/posts/mohammed-adham-936381247_aetaeuabraepaesaezaeqaetabraesaesaeqaezaepaez-activity-7305246917322559490-HCyS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
+- [KPIs](https://www.linkedin.com/posts/mohammed-adham-936381247_aetaeuabraepaesaezaeqaetabraesaesaeqaezaepaez-activity-7305679006618550272-B1l3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
+- [Customer Satisfaction (BI)](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7307920301969797122-wI6y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
+- [Vanity metrics (BI)](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7308461665275052033-JFRz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
+- [Data Visualization](https://www.linkedin.com/posts/mohammed-adham-936381247_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7309627069653553152-ycvP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0Z5_oBlTRbqTqjU1bq2lzQ_SMlsHxfhRs)
 ---
 
-💡 *Keep learning and keep analyzing!* 🚀
+
