@@ -64,7 +64,7 @@
 - [Power BI Data Modeling](https://www.youtube.com/playlist?list=PLMGnA_WX4s90NGG_O-2m7Pn5Pq1_ieNdy)
 
 ### 5. BI
--[Storytelling with data](https://www.youtube.com/watch?v=sKOPyCIGvwQ)
+- [Storytelling with data](https://www.youtube.com/watch?v=sKOPyCIGvwQ)
 
 ### 🎥 Video Courses ITI
 - [Database & BI](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-) 📂
