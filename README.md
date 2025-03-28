@@ -74,7 +74,7 @@
 ### 📚 Books on Data Analysis & Business Intelligence
 - [Data Science for Business](https://www.advisory21.com.mt/wp-content/uploads/2023/05/Data-Science-for-Business.pdf)
 - [Python for Data Analysis](https://wesmckinney.com/book/)
-- [Storytelling with data]([https://wesmckinney.com/book/](https://archive.org/details/storytellingwith0000knaf?utm_source=chatgpt.com))
+- [Storytelling with data](https://archive.org/details/storytellingwith0000knaf?utm_source=chatgpt.com)
 - [Business Intelligence, Analytics, and Data Science: A Managerial Perspective](https://archive.org/details/20210102_20210102_2233/%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA%20%D9%88%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA/)
 
 ---
