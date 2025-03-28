@@ -32,6 +32,7 @@
 
 ### 1.Excel  
 - [Excel Playlist alassaal](https://www.youtube.com/watch?v=mV8s55-6mag&list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT)
+- [coursera Excel Course](https://www.coursera.org/learn/from-excel-to-power-bi?irclickid=w3eW4ZQYXxyKRHRTdeXVu1QiUks3Yj0GAW8oU80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c&utm_campaignid=MLTUT&utm_term=14726_CR_1164545_)
 
 ### 2. Python  
 **Basic**  
@@ -45,27 +46,37 @@
 
 ### 3. Database 
 
+- [Database Playlist Mohamed Desouki](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
 - [CMU Intro to Database Playlist](https://youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq)
-- [ Advanced Database SQL Server](https://www.youtube.com/watch?v=nUiuyejbemc&list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_) 
+- [Database Playlist Essam](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
+- [ Advanced Database SQL Server](https://www.youtube.com/watch?v=nUiuyejbemc&list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_)
+- [Tasks](https://drive.google.com/drive/u/0/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1?fbclid=IwZXh0bgNhZW0CMTEAAR0iT0KETBkBlMakXe2Uu_OAfo8xDfE0gC8C_xXc8wC9P3aHrKb7jjGSOwQ_aem_aY3q9dDyqNUw1qz2tnv2Kw)
 
 **Practice Platforms:**  
 
   - [HackerRank SQL Challenges](https://www.hackerrank.com/domains/sql)  
-  - [LeetCode Top SQL 50](https://leetcode.com/studyplan/top-sql-50/)  
+  - [LeetCode Top SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+
+### 4. Power BI
+- [Power BI Playlist Mohammed Zanoon](https://www.youtube.com/@ZanoonLab)
+- [Power BI Playlist alassaal](https://www.youtube.com/watch?v=v_re3WCPOjI&list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3)
+- [Power BI Coursera](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi?irclickid=w3eW4ZQYXxyKRHRTdeXVu1QiUks3YlS3AW8oU80&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c&utm_campaignid=MLTUT&utm_term=14726_CR_1164545)
 
 ### 🎥 Video Courses ITI
 - [Database & BI](https://drive.google.com/drive/folders/1uD8v_GzZISD6TacXAFoCieMIso1Uy2s-) 📂
-- [Full Courses In Data Analysis & BI](https://mega.nz/folder/kp5RFACR#tEcE-S38Bfkjim7gBp4e9Q) 📂
+- [Data Analysis & BI](https://mega.nz/folder/kp5RFACR#tEcE-S38Bfkjim7gBp4e9Q) 📂
 
 
 ### 📚 Books on Data Analysis & Business Intelligence
-- "Storytelling with Data" - Cole Nussbaumer Knaflic
-- "The Data Warehouse Toolkit" - Ralph Kimball
-- "Data Science for Business" - Foster Provost
+- [Data Science for Business](https://www.advisory21.com.mt/wp-content/uploads/2023/05/Data-Science-for-Business.pdf)
+- [Python for Data Analysis](https://wesmckinney.com/book/)
+- [Business Intelligence, Analytics, and Data Science: A Managerial Perspective](https://archive.org/details/20210102_20210102_2233/%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84%20%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA%20%D9%88%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA/)
 
 ---
 
 ### YouTube Channels
+
+
 
 ---
 
