@@ -32,6 +32,7 @@
 
 ### 1.Statistics
 -[Descriptive Statistics](https://www.youtube.com/playlist?list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW)
+
 -[Inferential Statistics](https://www.youtube.com/playlist?list=PLtsZ69x5q-X9usunWeDQe6wOGIPUSZrdA)
 
 ### 1.Excel  
